@@ -1,0 +1,16 @@
+.result-display{
+  width: 1000px;
+  height: 400px;
+
+  background-color: white;
+  padding: 4rem 3rem 0 3rem ;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Acme', sans-serif;
+
+}
+.result-url{
+  font-size: 5rem;
+  border: 5px solid red;
+}
